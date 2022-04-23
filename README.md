@@ -11,4 +11,5 @@ Make your Portfolio using HTML, CSS, and Bootstrap. Your portfolio must have fol
 4. A Contact Page where users can send you projects after providing their name, email address, subject and project details.
 5. The portfolio should be responsive.
 <br>
-The finished product was to be hosted on Github Pages. You can visit my deployed portfolio by clicking [here](saadpocalypse.github.io)
+
+The finished product was to be hosted on Github Pages. You can visit my deployed portfolio by clicking [here.](https://saadpocalypse.github.io)
