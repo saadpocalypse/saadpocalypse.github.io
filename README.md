@@ -10,4 +10,4 @@ Make your Portfolio using HTML, CSS, and Bootstrap. Your portfolio must have fol
 3. A Resume Page where your Resume is displayed as a pdf and is downloadable.
 4. A Contact Page where users can send you projects after providing their name, email address, subject and project details.
 
-The finished product
+The finished product was to be
