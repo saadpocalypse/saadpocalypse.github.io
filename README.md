@@ -7,5 +7,5 @@ The objective was to get familiar with Boostrap and HTML.
 Make your Portfolio using HTML, CSS, and Bootstrap. Your portfolio must have following features:
 1. A Home Page which includes your name, interests and other basic information. It must also contain a picture of you.
 2. A Projects Page with a list of all your projects briefly described.
-3. A resum
-4. 
+3. A Resume Page where your Resume is displayed as a pdf and is downloadable.
+4. A Contact Page where users can send you projects after providing their name, email address, subject and project details.
