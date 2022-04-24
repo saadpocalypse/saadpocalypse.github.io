@@ -17,4 +17,5 @@ The finished product was to be hosted on Github Pages. You can visit my deployed
 I also added some JavaScript elements to the portfolio. <br>
 The script I added is for darkmode on some of the pages. <br>
 However, I did not use cookies to store the sessions so the state is not carried onto the next page or across page reloads. <br>
-Dark mode NOT working properly on Safari
+Dark mode NOT working properly on Safari Version 15.3 (17612.4.9.1.8), macOS Monterey Vesion 12.2.1. <br>
+Reason unknown, problem reported to Apple.
